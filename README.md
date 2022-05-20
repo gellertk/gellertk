@@ -1,6 +1,6 @@
 ### Привет/Hi 👋
 
-### Test projects:
+### Test tasks:
 
 * [Notes](https://github.com/gellertk/Notes)
 * [Rick and Morty](https://github.com/gellertk/RickAndMorty)
