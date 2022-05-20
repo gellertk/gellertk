@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет/Hi 👋
 
-<!--
-**gellertk/gellertk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Test projects:
 
-Here are some ideas to get you started:
+* [Notes](https://github.com/gellertk/Notes)
+* [Rick and Morty](https://github.com/gellertk/RickAndMorty)
+* [Photo gallery](https://github.com/gellertk/PhotoGallery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pet projects
+
+* [AlarmClock](https://github.com/gellertk/AlarmClock)
+* [Calculator](https://github.com/gellertk/Calculator)
+
+## Development by team
+* [Alias](https://github.com/gellertk/Alias)
