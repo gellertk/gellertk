@@ -11,5 +11,5 @@
 * [AlarmClock](https://github.com/gellertk/AlarmClock)
 * [Calculator](https://github.com/gellertk/Calculator)
 
-## Development by team
+### Development by team
 * [Alias](https://github.com/gellertk/Alias)
