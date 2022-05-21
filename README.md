@@ -2,7 +2,7 @@
 
 ### Test tasks:
 
-* [Notes](https://github.com/gellertk/Notes)
+* [Notes (MVC, No Storyboard)](https://github.com/gellertk/Notes)
 * [Rick and Morty](https://github.com/gellertk/RickAndMorty)
 * [Photo gallery](https://github.com/gellertk/PhotoGallery)
 
