@@ -2,14 +2,14 @@
 
 ### Test tasks:
 
-* [Notes (MVC, No Storyboard, CoreData)](https://github.com/gellertk/Notes)
+* [Notes (MVC, CoreData, No Storyboard)](https://github.com/gellertk/Notes)
 * [Rick and Morty](https://github.com/gellertk/RickAndMorty)
-* [Photo gallery](https://github.com/gellertk/PhotoGallery)
+* [Photo gallery (MVC, PhotoKit, Child controllers navigation, No Storyboard)](https://github.com/gellertk/PhotoGallery)
 
 ### Pet projects
 
 * [AlarmClock](https://github.com/gellertk/AlarmClock)
-* [Calculator](https://github.com/gellertk/Calculator)
+* [Calculator (MVC, Landscape mode, Autolayout, No Storyboard)](https://github.com/gellertk/Calculator)
 
 ### Team projects
-* [Alias](https://github.com/gellertk/Alias)
+* [Alias (MVC, Network(URL Session), No Storyboard)](https://github.com/gellertk/Alias)
