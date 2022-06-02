@@ -4,7 +4,7 @@
 
 * [Notes (MVC, CoreData, No Storyboard)](https://github.com/gellertk/Notes)
 * [Rick and Morty (MVC, Network(URLSession)), No Storyboard](https://github.com/gellertk/RickAndMorty)
-* [Photo gallery (MVC, PhotoKit, Child controllers navigation, No Storyboard)](https://github.com/gellertk/PhotoGallery)
+* [Photo gallery (MVC, PhotoKit, Child Controller Navigation, No Storyboard)](https://github.com/gellertk/PhotoGallery)
 
 ### Pet projects
 
