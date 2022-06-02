@@ -8,7 +8,7 @@
 
 ### Pet projects
 
-* ⭐[AlarmClock (MVC, SnapKit, DiffableDataSource, CompositionalLayout)](https://github.com/gellertk/AlarmClock)
+* ⭐[AlarmClock (MVC, SnapKit, DiffableDataSource, CompositionalLayout, No Storyboard)](https://github.com/gellertk/AlarmClock)
 * [Calculator (MVC, Landscape mode, Autolayout, No Storyboard)](https://github.com/gellertk/Calculator)
 
 ### Team projects
