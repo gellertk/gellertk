@@ -1,15 +1,10 @@
 ### Привет/Hi 👋
 
-### Test tasks:
-
-* [Notes (MVC, CoreData, No Storyboard)](https://github.com/gellertk/Notes)
-* [Rick and Morty (MVC, Network(URLSession)), No Storyboard](https://github.com/gellertk/RickAndMorty)
-* [Photo gallery (MVC, PhotoKit, Child Controller Navigation, No Storyboard)](https://github.com/gellertk/PhotoGallery)
-
-### Pet projects
+### Pet projects (Native clone)
 
 * ⭐[AlarmClock (MVC, SnapKit, DiffableDataSource, CompositionalLayout, No Storyboard)](https://github.com/gellertk/AlarmClock)
 * [Calculator (MVC, Landscape mode, Autolayout, No Storyboard)](https://github.com/gellertk/Calculator)
+* [Notes (MVC, CoreData, No Storyboard)](https://github.com/gellertk/Notes) 
 
 ### Team projects
 * [Alias (MVC, Network(URLSession), No Storyboard)](https://github.com/gellertk/Alias)
